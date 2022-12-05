@@ -1,23 +1,23 @@
 module.exports = `
-menu.btn.ranked ランクマッチ
-menu.btn.shop ショップ
-menu.btn.social ハブ
-menu.btn.maps ゲーム
-menu.btn.mods MOD
-menu.btn.settings 設定
-menu.btn.customize カスタマイズ
-menu.btn.invite 招待
-menu.btn.invite.clicked コピーしました
-menu.btn.join 参加する
-menu.btn.host ゲームをホスト
-menu.btn.browser サーバー
-generic.wait お待ちください...
-generic.loading ロード中...
-generic.none なし
-generic.connecting 接続中...
-generic.select 選択
-generic.delete 削除
-generic.save セーブ
+menu.btn.ranked Work it, make it, do it
+menu.btn.shop Makes us harder, better, faster, stronger
+menu.btn.social N-n-now that that don't kill me
+menu.btn.maps Can only make me stronger
+menu.btn.mods I need you to hurry up now
+menu.btn.settings 'Cause I can't wait much longer
+menu.btn.customize I know I got to be right now
+menu.btn.invite 'Cause I can't get much wronger
+menu.btn.invite.clicked Man, I've been waiting all night now
+menu.btn.join That's how long I been on ya
+menu.btn.host (Work it harder, make it better)
+menu.btn.browser (Do it faster, makes us stronger)
+generic.wait I need you right now
+generic.loading (More than ever, hour after hour, work)
+generic.none I need you right now
+generic.connecting Let's get lost tonight
+generic.select You could be my black Kate Moss tonight
+generic.deletePlay secretary, I'm the boss tonight 
+generic.save 
 generic.load ロード
 generic.search 検索
 generic.leave 退出
